@@ -1,9 +1,9 @@
 name: Build and Release
 
+# Automatic triggers are disabled: this workflow runs only when it is
+# started by hand, from the Actions tab or through the API. The triggers
+# it used to declare are in this file's git history.
 on:
-  push:
-    tags:
-      - 'v*'
   workflow_dispatch:
 
 jobs:
