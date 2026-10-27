@@ -1,6 +1,6 @@
 # Préférences - Apple Tech News Scraper
 
-## Chemins Fichiers
+## Chemins Fichiers (PRODUCTION)
 RESSOURCES_PATH: ./RESSOURCES.md
 NEWS_DIR: ./News/
 LOGS_DIR: ./Logs/
